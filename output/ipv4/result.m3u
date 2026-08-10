@@ -1,0 +1,7 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/lanfeng6550/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-id="# ==========================================" tvg-name="# ==========================================" tvg-logo="https://www.xn--rgv465a.top/tvlogo/# ==========================================.png" group-title="🕘️更新时间",2026-08-10 11:58:41
+http://222.223.41.27:8888/hls/12/index.m3u8$订阅源
+#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV12" tvg-logo="https://tb.zbds.top/logo/CCTV12.png",CCTV12
+http://222.223.41.27:8888/hls/12/index.m3u8$订阅源
+#EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生" tvg-logo="https://live.fanmingming.cn/tv/浙江民生休闲.png",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
